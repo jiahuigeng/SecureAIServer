@@ -1,0 +1,5 @@
+onnxruntime
+pandas
+Flask
+uuid
+scikit-image
